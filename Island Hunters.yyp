@@ -1,6 +1,13 @@
 {
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"sIsland2","path":"sprites/sIsland2/sIsland2.yy",},"order":1,},
+    {"id":{"name":"oIsland3","path":"objects/oIsland3/oIsland3.yy",},"order":2,},
+    {"id":{"name":"sIsland4","path":"sprites/sIsland4/sIsland4.yy",},"order":3,},
+    {"id":{"name":"oIsland1","path":"objects/oIsland1/oIsland1.yy",},"order":0,},
+    {"id":{"name":"oObject4","path":"objects/oObject4/oObject4.yy",},"order":3,},
+    {"id":{"name":"oIsland2","path":"objects/oIsland2/oIsland2.yy",},"order":1,},
+    {"id":{"name":"sIsland1","path":"sprites/sIsland1/sIsland1.yy",},"order":0,},
+    {"id":{"name":"sIsland3","path":"sprites/sIsland3/sIsland3.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
