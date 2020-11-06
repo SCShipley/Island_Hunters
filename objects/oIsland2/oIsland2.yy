@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sIsland2",
+    "path": "sprites/sIsland2/sIsland2.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
